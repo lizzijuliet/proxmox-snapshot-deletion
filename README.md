@@ -21,7 +21,7 @@ Este script está diseñado para eliminar snapshots de máquinas virtuales (VM) 
 
    chmod +x delete_snapshot_by_vm_id_and_name_and_host.sh
 
-4. **Ejecuta el scrip**
+4. **Ejecuta el script**
 
    ./delete_snapshot_by_vm_id_and_name_and_host.sh
 
