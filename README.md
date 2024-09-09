@@ -37,3 +37,7 @@ Este script no realiza comprobaciones adicionales sobre el estado de la VM o el 
 
 ## Contribuciones
 Las contribuciones son bienvenidas. Si tienes sugerencias o encuentras errores, por favor abre un issue o un pull request en el repositorio.
+
+## Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
